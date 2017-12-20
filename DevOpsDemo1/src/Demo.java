@@ -5,7 +5,10 @@ public class Demo {
 		System.out.println("Hello");
 		System.out.println("Hello");
 		System.out.println("Hello Banagalore");
+<<<<<<< HEAD
 		
+=======
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
